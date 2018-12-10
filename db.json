@@ -2,21 +2,38 @@
   "posts": [
     		{
 		"id": 1,
-		"name": "feudeymon",
+		"name": "Feudeymon",
 		"weakness": "eau",
+		"feed": "bois",
 		"type": "feu"
     		},
-		{  	
+		{
 		"id": 2,
-		"name": "aguamenti",
+		"name": "Terra",
+		"weakness": "bois",
+		"feed": "feu",
+		"type": "terre"
+		}
+		{
+		"id": 3,
+		"name": "Metalica",
+		"weakness": "feu",
+		"feed": "terre",
+		"type": "métal"
+		},
+		{  	
+		"id": 4,
+		"name": "Aguamenti",
 		"weakness": "terre",
+		"feed": "métal",
 		"type": "eau"
 		},
 		{
-		"id": 3,
-		"name": "ventus",
-		"weakness": "feu",
-		"type": "vent"
+		"id": 5,
+		"name": "Sylvania",
+		"weakness": "métal",
+		"feed": "eau",
+		"type": "bois"
 		}
 	   ],
   "profile": {
